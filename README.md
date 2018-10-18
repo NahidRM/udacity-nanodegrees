@@ -175,6 +175,7 @@ healthcare, education, and more.
 1. [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 1. [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 1. [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+1. [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
 ---
 
